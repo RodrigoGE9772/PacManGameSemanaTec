@@ -1,6 +1,6 @@
 """
 Juego: Pacman
-Programador 1: 
+Programador 1: Misael Chavez Ramos
 Programador 2: Rodrigo García Estrada
 
 Fecha: 11 / mayo / 2022
